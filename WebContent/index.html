@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>TCM Search Engine</title>
+<link rel="stylesheet" href="script.css"/>
+</head>
+<body>
+<center><iframe src="logo.html" scrolling="no" frameborder="0" width="920" height="120"></iframe></center>
+<a href="index.html" class="right">
+<h3>Home</h3></a><br/><br/><br/>
+<div>
+<center>
+	<a href="index.html"><image src="tcm.jpg" width="300" height="200"></a><br/><br/>
+	<form id="myForm1" >
+			<input id="text" type="text" size="140" name="searchstring"/>
+			<select name="type"">
+			<option value=""></option>
+			<option value="technology">Technology</option>
+			<option value="education">Education</option>
+			<option value="sports">Sports</option>
+			</select>
+			<div class="submit">
+			<input id="submit" type="submit" formaction="http://localhost:8080/TCM/DisplayResults" value="TCM Search" size='150'/>
+			<input id="submit" type="submit" formaction="http://localhost:8080/TCM/DisplayGoogleResults" value="Other Search Engines" size='150'/>
+			</div>
+	</form>
+</center>
+</div>
+</body>
+</html>

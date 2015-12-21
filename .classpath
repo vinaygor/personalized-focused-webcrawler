@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="lib" path="D:/google-gson-2.2.4/gson-2.2.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/google-gson-2.2.4/gson-2.2.4-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/google-gson-2.2.4/gson-2.2.4-sources.jar"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/eclipse">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="lib" path="D:/New C Drive/mysql-connector-java-5.1.26/mysql-connector-java-5.1.26-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vinay/Downloads/jsoup-1.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/commons-codec-1.8/commons-codec-1.8.jar"/>
+	<classpathentry kind="lib" path="D:/commons-codec-1.8/commons-codec-1.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/commons-codec-1.8/commons-codec-1.8-sources.jar"/>
+	<classpathentry kind="lib" path="D:/commons-codec-1.8/commons-codec-1.8-tests.jar"/>
+	<classpathentry kind="lib" path="D:/commons-codec-1.8/commons-codec-1.8-test-sources.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

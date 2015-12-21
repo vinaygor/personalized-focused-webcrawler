@@ -1,0 +1,74 @@
+#login
+{
+display:block;
+background-color:#0000FF;
+}
+#login1
+{
+color:white;
+font-family:Berlin Sans FB;
+font-style:bold;
+}
+body
+{  
+font-family:"Lucida Grande", arial, sans-serif; 
+}  
+
+h1
+{
+font-weight:bold;
+color:#e6e6e6;
+font-family:Comic Sans MS;
+}
+h2
+{
+font-family:Berlin Sans FB;
+color:#00cc00;
+}
+h3
+{
+font-family:Berlin Sans FB;
+color:#00cc00;
+}
+div.f
+{
+background:#00cc00;
+}
+div.body
+{
+width:900px;
+min-height:570px;
+border:2px repeat-x scroll center top transparent;
+border-style:double;
+border-width:5px;
+border-bottom-right-radius:2.5em;
+border-color:#00cc00;
+border-top-left-radius:2.5em;
+}
+a{
+	text-decoration:none;
+}
+#text{
+	margin: 10px 0;
+	height: 35px;
+	}
+	#submit{
+		padding: 10px;
+		width: 220px;
+		height: 40px !important;
+		font-family:Berlin Sans FB;
+		color:#00cc00;
+	}
+	select{
+	height: 30px
+	}
+	.left
+	{
+	position:fixed;
+	left:230px;
+	}
+	.right
+	{
+	position:absolute;
+	right:230px;
+	}
